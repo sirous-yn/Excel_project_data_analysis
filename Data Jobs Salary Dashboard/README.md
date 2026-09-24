@@ -64,7 +64,7 @@ The dataset covers **111 countries** and multiple data and technology job catego
 
 > **Note:** The original data source is not specified in the workbook. The dataset description above is based on the fields contained in the Excel file.
 
-## Analysis Performed
+## Questions This Analysis Explores
 
 The dashboard was designed to answer questions such as:
 
